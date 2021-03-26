@@ -1,0 +1,46 @@
+
+
+
+
+
+R 1500 900
+
+
+NO ./textures/wall1.xpm
+
+
+
+
+
+
+
+
+
+
+
+SO ./textures/wall2.xpm
+
+
+WE ./textures/wall3.xpm
+
+
+EA ./textures/brick.xpm
+
+
+
+S ./textures/barrel.xpm
+
+
+
+F 100,200,0
+
+
+
+
+C 225,30,0
+
+
+1111
+1001
+10N1
+1111

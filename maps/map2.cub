@@ -1,0 +1,41 @@
+R 1000 800
+
+
+NO   ./textures/wall1.xpm
+
+
+
+
+
+
+
+
+
+
+
+SO ./textures/wall2.xpm
+
+
+WE ./textures/wall3.xpm
+
+
+EA ./textures/brick.xpm
+
+
+
+S ./textures/barrel.xpm
+
+
+F 0,255,255
+
+C 128,128,128       
+                                                  
+                      11111                       
+                  1  1000001                      
+                 1011101110111                    
+                 12100011001001                   
+                 10000000010001                   
+                  100010000001                    
+                   1101100001                     
+                     10E0001                      
+                      11111                       
